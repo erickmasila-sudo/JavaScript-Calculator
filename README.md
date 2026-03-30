@@ -58,6 +58,8 @@ This will display the text *Closing calculator...* and closes the program.
 4. Push your branch: `git push origin feature-name`.
 5. Create a pull request.
 
+## License
+
 
 
 
