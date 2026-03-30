@@ -15,7 +15,7 @@ function repeat(){
     
 }
 function calculate(){
-    r1.question("Enter the First Number? ", (a) =>{
+    r1.question("Opening Calculator...\n Enter the First Number? ", (a) =>{
         r1.question("Enter second number? ", (b) =>{
    let addition=Number(a)+Number(b);
    let subtraction=Number(a)-Number(b);
